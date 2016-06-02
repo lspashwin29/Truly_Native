@@ -1,4 +1,4 @@
-Hello, This is out ALDA project. In order for this project to work you will need to install a data science distribution of python named Anaconda.
+Hello, This is our Data Mining project. In order for this project to work you will need to install a data science distribution of python named Anaconda.
 
 Download this version from https://www.continuum.io/downloads
 
